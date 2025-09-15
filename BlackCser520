@@ -4,3 +4,5 @@ pkg update
 ‎pkg install python2
 ‎pkg install git
 ‎https://github.com/kevinanhnguyen0-dev/BlackCser.git
+cd blackcser 
+chmod BlackCser.git
